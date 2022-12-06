@@ -1,4 +1,4 @@
-# webserver-sockets.io
+# WebServer-sockets.io
 Un WebServer simple utilizando sockets.io
 
 ``` npm install ``` for node_modules
